@@ -5,11 +5,11 @@
 
 ## I'm just a develloper
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a church website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / piano
 
 
 ### Connect with me:
@@ -55,7 +55,7 @@
 [twitter]: https://twitter.com/VoaryNambs
 [instagram]: https://instagram.com/vnambs
 [linkedin]: https://linkedin.com/in/voary-nambinina-877b5a117
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.facebook.com/nathvoary/
+[jsplaylist]: https://www.facebook.com/nathvoary/
+[cssplaylist]: https://www.facebook.com/nathvoary/
+[reactplaylist]: https://www.facebook.com/nathvoary/
