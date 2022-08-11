@@ -46,10 +46,12 @@
 
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   <summary>:zap: Github Stats</summary>
+  
 
-  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=radical" />
+  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=gradient" />
 
 </details>
 
