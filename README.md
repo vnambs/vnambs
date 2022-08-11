@@ -47,11 +47,11 @@
 
 <details>
   
-<img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnambs&layout=compact&theme=vnambs"/>
+<img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnambs&layout=compact&theme=material-palenight"/>
   <summary>:zap: Github Stats</summary>
   
 
-  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=vnambs" />
+  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=material-palenight" />
 
 </details>
 
