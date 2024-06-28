@@ -15,7 +15,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
-
+<br />
+<br /><br />
+<br /><br />
+<br />
 
 ## 😊 Profile
 Property                 | Data  
@@ -33,8 +36,7 @@ Reach Me                 | [![X Badge](https://img.shields.io/badge/-VoaryNambs-
   
 <img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnambs&layout=compact&theme=material-palenight"/>
 
-<br />
-<br />
+
  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=material-palenight" />
 
 <br />
