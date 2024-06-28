@@ -5,8 +5,8 @@
 
 ## I'm just a develloper
 
-<img src="https://github.com/vnambs/vnambs/blob/master/my-octocat-1608989195961.png" alt="banner that says Voary Nambinina - software engineer, artificial lover & web developer alongside a cartoon illustration of a developer" align="left" width="200px">
 
+<img src="https://github.com/vnambs/vnambs/blob/master/OIG1.5xUlaQbct2Z6ytuXgAGl.jpg" alt="banner that says Voary Nambinina - software engineer, artificial lover & web developer alongside a cartoon illustration of a developer" align="left" width="200px">
 
 
 - 🔭 I’m currently working on a church website!
@@ -32,9 +32,15 @@ Reach Me                 | [![X Badge](https://img.shields.io/badge/-VoaryNambs-
 ## ✨ Stats
   
 <img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnambs&layout=compact&theme=material-palenight"/>
+
+<br />
+<br />
  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=material-palenight" />
 
+<br />
+<br />
 
+<img src="https://github.com/vnambs/vnambs/blob/master/my-octocat-1608989195961.png" alt="banner that says Voary Nambinina - software engineer, artificial lover & web developer alongside a cartoon illustration of a developer" align="left" width="200px">
 
 [twitter]: https://twitter.com/VoaryNambs
 [instagram]: https://instagram.com/vnambs
@@ -43,7 +49,8 @@ Reach Me                 | [![X Badge](https://img.shields.io/badge/-VoaryNambs-
 [jsplaylist]: https://www.facebook.com/nathvoary/
 [cssplaylist]: https://www.facebook.com/nathvoary/
 [reactplaylist]: https://www.facebook.com/nathvoary/
-
+<br />
+<br />
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
