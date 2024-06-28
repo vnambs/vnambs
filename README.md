@@ -5,7 +5,7 @@
 
 ## I'm just a develloper
 
-<img src="https://github.com/vnambs/vnambs/my-octocat-1608989195961.png" alt="banner that says Voary Nambinina - software engineer, artificial lover & web developer alongside a cartoon illustration of a developer" align="left" width="200px">
+<img src="https://github.com/vnambs/vnambs/blob/master/my-octocat-1608989195961.png" alt="banner that says Voary Nambinina - software engineer, artificial lover & web developer alongside a cartoon illustration of a developer" align="left" width="200px">
 
 
 
