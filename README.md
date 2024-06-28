@@ -24,19 +24,27 @@ Language                 | [![Html+CSS+Javascript Badge](https://img.shields.io/
 Tool / Framework / IDE    | [![Node Js Badge](https://img.shields.io/badge/-Node%20Js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/search?l=node%20js&q=user%3vnambs&type=Repositories) [![Next Js Badge](https://img.shields.io/badge/-Next%20Js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/search?l=next%20js&q=user%3vnambs&type=Repositories) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/search?l=React&q=user%3vnambs&type=Repositories) [![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://github.com/search?l=Selenium&q=user%3vnambs&type=Repositories) [![Vue JS Badge](https://img.shields.io/badge/-Vue%20JS-32475B?style=flat&logo=javascript&logoColor=white)](https://github.com/search?l=Javascript&q=user%3vnambs&type=Repositories) [![Figma Badge](https://img.shields.io/badge/-Figma-9E55F1?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@imranakbar) [![VSCODE Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://github.com/vnambs) [![Pycharm Badge](https://img.shields.io/badge/-Pycharm-24D38C?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?l=Python&q=user%3vnambs&type=Repositories) [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?l=html&q=user%3vnambs&type=Repositories)
 Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Application Development Development Badge](https://img.shields.io/badge/-Application%20Development-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Web Crawling Badge](https://img.shields.io/badge/-Web%20Crawling-036CB5?style=flat&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Graphic Designer Badge](https://img.shields.io/badge/-Graphic%20Designer-9E55F1?style=flat&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories)
 CI / CD                  | [![AWS Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-2560E0?style=flat&logo=Amazon-web-services&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories) [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/search?q=user%vnambs&type=Repositories)
-Reach Me                 | [![X Badge](https://img.shields.io/badge/-vnambs-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/vnambs) [![Gmail Badge](https://img.shields.io/badge/-vnambs-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:vnambs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-vnambs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/voary-nambinina-randrianandrasana-877b5a117) [![Instagram Badge](https://img.shields.io/badge/vnambs-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vnambs/)
+Reach Me                 | [![X Badge](https://img.shields.io/badge/-VoaryNambs-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/VoaryNambs) [![Gmail Badge](https://img.shields.io/badge/-vnambs-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:vnambs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-vnambs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/voary-nambinina-randrianandrasana-877b5a117) [![Instagram Badge](https://img.shields.io/badge/vnambs-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vnambs/)
 
 
 
-### Connect with me:
 
-[<img align="left" alt="VoaryNambs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vnambs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vnambs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## ✨ Stats
+  
+<img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnambs&layout=compact&theme=material-palenight"/>
+ <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=material-palenight" />
 
-<br />
 
-### Languages and Tools:
+
+[twitter]: https://twitter.com/VoaryNambs
+[instagram]: https://instagram.com/vnambs
+[linkedin]: https://linkedin.com/in/voary-nambinina-877b5a117
+[webdevplaylist]: https://www.facebook.com/nathvoary/
+[jsplaylist]: https://www.facebook.com/nathvoary/
+[cssplaylist]: https://www.facebook.com/nathvoary/
+[reactplaylist]: https://www.facebook.com/nathvoary/
+
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -57,24 +65,3 @@ Reach Me                 | [![X Badge](https://img.shields.io/badge/-vnambs-0000
 
 <br />
 <br />
-
-
-
-
-<details>
-  
-<img align="left" alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnambs&layout=compact&theme=material-palenight"/>
-  <summary>:zap: Github Stats</summary>
-  
-
-  <img align="left" alt="vnambs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vnambs&show_icons=true&theme=material-palenight" />
-
-</details>
-
-[twitter]: https://twitter.com/VoaryNambs
-[instagram]: https://instagram.com/vnambs
-[linkedin]: https://linkedin.com/in/voary-nambinina-877b5a117
-[webdevplaylist]: https://www.facebook.com/nathvoary/
-[jsplaylist]: https://www.facebook.com/nathvoary/
-[cssplaylist]: https://www.facebook.com/nathvoary/
-[reactplaylist]: https://www.facebook.com/nathvoary/
